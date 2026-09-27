@@ -1,0 +1,6 @@
+{
+  "name": "OpenWrt CI Studio - JD Cloud AX1800 Pro",
+  "description": "Custom OpenWrt Firmware Generator & GitHub Actions CI Builder for JD Cloud AX1800 Pro (Qualcomm IPQ6000) with 64GB eMMC, 4G LTE Cell-Lock, and IoT/BMS Gateway stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
